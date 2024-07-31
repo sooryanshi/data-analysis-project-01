@@ -23,6 +23,7 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
     - **Seaborn Library:** Helped me create more advanced visuals. 
 - **Jupyter Notebooks:** The tool I used to run my Python scripts which let me easily include my notes and analysis.
 - **Git & GitHub:** Essential for version control and sharing my Python code and analysis, ensuring collaboration and project tracking.
+  View my notebook with detailed steps here: (https://github.com/sooryanshi/data-analysis-project-01/blob/main/project.ipynb)
 
 # Data Preparation and Cleanup
 
