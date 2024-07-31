@@ -58,7 +58,6 @@ Each Jupyter notebook for this project aimed at investigating specific aspects o
 
 To find the most demanded skills for the top 3 most popular data roles. I filtered out those positions by which ones were the most popular, and got the top 5 skills for these top 3 roles. This query highlights the most popular job titles and their top skills, showing which skills I should pay attention to depending on the role I'm targeting. 
 
-View my notebook with detailed steps here: [2_Skill_Demand](2_Skill_Demand.ipynb).
 
 ### Visualize Data
 
@@ -139,7 +138,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in the US](https://github.com/sooryanshi/data-analysis-project-01/blob/main/graph2.docx)
+![Trending Top Skills for Data Analysts](https://github.com/sooryanshi/data-analysis-project-01/blob/main/graph2.docx)
 *Bar graph visualizing the trending top skills for data analysts in the US in 2023.*
 
 ### Insights:
@@ -167,7 +166,7 @@ plt.show()
 
 #### Results
 
-![Salary Distributions of Data Jobs in the US](https://github.com/sooryanshi/data-analysis-project-01/blob/main/graph3.docx)  
+![Salary Distributions of Data Jobs](https://github.com/sooryanshi/data-analysis-project-01/blob/main/graph3.docx)  
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
 #### Insights
@@ -212,7 +211,7 @@ plt.show()
 #### Results
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in the US:
 
-![The Highest Paid & Most In-Demand Skills for Data Analysts in the US](https://github.com/sooryanshi/data-analysis-project-01/blob/main/graph4.docx)
+![The Highest Paid & Most In-Demand Skills for Data Analysts ](https://github.com/sooryanshi/data-analysis-project-01/blob/main/graph4.docx)
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.*
 
 #### Insights:
@@ -256,7 +255,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in the US](https://github.com/sooryanshi/data-analysis-project-01/blob/main/graph5.docx)    
+![Most Optimal Skills for Data Analysts ](https://github.com/sooryanshi/data-analysis-project-01/blob/main/graph5.docx)    
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US.*
 
 #### Insights:
